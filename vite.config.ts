@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/template-padaria/',
+  base: '/template-padaria',
   plugins: [react(), tailwindcss(), viteSingleFile()],
   resolve: {
     alias: {
