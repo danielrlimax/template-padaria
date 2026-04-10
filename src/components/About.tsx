@@ -30,7 +30,7 @@ export default function About() {
           <div className="relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="/images/about.jpg"
+                src="images/about.jpg"
                 alt="Padeiro preparando o pão"
                 className="w-full h-[500px] object-cover"
               />

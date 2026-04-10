@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background Image */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/images/hero-bread.jpg')" }}
+        style={{ backgroundImage: "url('images/hero-bread.jpg')" }}
       />
       {/* Overlay gradient */}
       <div className="absolute inset-0 bg-gradient-to-b from-[#2C1A0E]/75 via-[#2C1A0E]/60 to-[#2C1A0E]/85" />
